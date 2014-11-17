@@ -1,0 +1,3 @@
+This lesson taught us that in order to decide when to create a mobile application versus when to create a mobile optimized site we should consider how far along the company is in their progress and their main goal of creating the site. These questions around the build will answer whether or not to create a mobile application or a mobile optimized site. A major factor when making this decision is to assess how much more the company has to spend and how much of it should be spent on this program. Obviously, a mobile application will be much more costly than a MOS, which should factor into decisions being made. 
+
+This site will be useful in deciding which to use and gives the basics about both - check it out http://signalfire.us/blog/what-is-responsive-design/ 
