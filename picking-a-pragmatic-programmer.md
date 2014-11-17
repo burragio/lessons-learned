@@ -5,3 +5,4 @@ a pragmatic programmer looks like this
 
 the value of a pragmatic programmer to a company or project is truly great, however
 https://pragprog.com/the-pragmatic-programmer
+![gif](http://giphy.com/gifs/life-interesting-footage-ZVik7pBtu9dNS)
